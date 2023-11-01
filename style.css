@@ -1,0 +1,230 @@
+#logo {
+    min-height: 1px;
+    min-width: 1px;
+    width: auto;
+    width: 476px;
+    margin-left: 155px;
+    margin-top: 110px;
+    margin-bottom: 100px;
+}
+
+#backimg {
+    padding-left: 150px;
+
+}
+
+.mol {
+    height: 100px;
+    width: 100%;
+    background-color: aqua;
+}
+
+.essay {
+    font-family: 'Times New Roman', Times, serif;
+    text-size-adjust: 20px;
+    padding-left: 150px;
+    padding-right: 500px;
+}
+
+#heading {
+    padding-left: 150px;
+    font-size: 1.55em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.asknestle {
+    padding-left: 150px;
+    font-size: xx-large;
+}
+
+.icon {
+    size: 5px;
+}
+
+.asknes {
+    display: flex;
+}
+
+.videoyou {
+    padding-left: 150px;
+
+}
+
+.viddiv {
+    display: flex;
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+
+.video2 {
+    padding-left: 10px;
+    padding-bottom: 100px;
+
+}
+
+.face {
+    line-height: 10px;
+}
+
+.bluemap {
+    padding-top: 100px;
+    background-color: rgb(23, 102, 140);
+    height: 250px;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.map {
+    height: 100px;
+    cursor: pointer;
+}
+
+.map:hover::after {
+    color: blue;
+    cursor: pointer;
+    transition: color 0.3s;
+    image-orientation: from-image;
+    z-index: 20;
+    transition: all 0.3s ease-in-out;
+}
+
+.blue {
+    width: 20%;
+
+}
+
+.textpointer {
+    cursor: pointer;
+}
+
+.footer {
+    height: 600px;
+    width: 100%;
+    display: flex;
+}
+
+.kili {
+    height: 100%;
+    width: 460px;
+    margin-top: 100px;
+}
+
+.firstr {
+    height: 100%;
+    width: 250px;
+}
+
+.second {
+    height: 100%;
+    width: 260px;
+}
+
+.third {
+    height: 100%;
+    width: 300px;
+}
+
+.ftext {
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+.ftext:hover {
+    cursor: pointer;
+    color: blue;
+}
+
+.logokili {
+    margin-top: 15px;
+    margin-left: 150px;
+    width: 100%;
+    max-width: 157px;
+}
+.essayfoot {
+    width: 158px;
+    font-size: 26px;
+    padding-left: 165px;
+}
+.contact{
+    width: 125px;
+    height: 35px;
+    border-color: #fff;
+    text-align: center;
+    color: #fff;
+    align-items: center;
+    border: 1px solid;
+    cursor: pointer;
+    background-color: transparent;
+
+}
+.contact:hover{
+    background-color: #007CBA;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.5);
+}
+.sign{
+    width: 125px;
+    height: 35px;
+    border-color: #fff;
+    text-align: center;
+    color: rgb(23, 102, 140);
+    align-items: center;
+    border: 1px solid;
+    cursor: pointer;
+    background-color: white
+}
+.end{
+    height: 100px;
+    width: 60%;
+    background-color: #fff;
+    margin-left: 565px;
+    margin-top: 85px;
+}
+.face{
+    color: #007CBA;
+    height: 40px;
+    width: 40px;
+    padding-left: 12px;
+  
+}
+nav{
+    width: 100%;
+    background-color: #F6F5F4;;
+}
+
+.nav ul{
+    list-style: none;
+    background-color: #fff;
+    
+    margin: 30px;
+    overflow: hidden;
+    margin-left: 90px;
+}
+nav li{
+    float: left; 
+}
+
+nav li:hover{
+    text-decoration: underline;
+}
+.navtable{
+    padding-top: 20px;
+    padding-right: 30px;
+    margin-left: 1px;
+    background-color: #F6F5F4;
+    padding-inline: 40px;
+}
+.navend{
+    width: 10px;
+}
+.header{
+    width: 97%;
+    height: 100px;
+    padding-left: 40px;
+}
+.fidiv{
+    height: 217px;
+}
+
